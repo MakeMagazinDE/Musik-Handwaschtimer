@@ -7,7 +7,6 @@ Maker Media GmbH
 Ein Update des Handwaschtimers aus Make 3/20 mit Seifenspender und Musik
 
 ### Benutzt den Sensor eines Seifenspenders aus der Drogerie und spielt Musik beim Corona-gerechten Händewaschen.
-Ein Anschluss für Analog-Telefone betätigt bei Anruf per Kurzwahl den Türöffner. 
 
 ![Picture](https://github.com/MakeMagazinDE/Musik-Handwaschtimer/blob/master/Image1.jpg) 
 
